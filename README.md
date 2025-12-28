@@ -123,13 +123,3 @@ Run the following command
 pnpm run dev
 ```
 Your app template should now be running on [localhost:3000](http://localhost:3000/).
-
-## Authors
-
-This library is created by [Vercel](https://vercel.com) and [Next.js](https://nextjs.org) team members, with contributions from:
-
-- Jared Palmer ([@jaredpalmer](https://twitter.com/jaredpalmer)) - [Vercel](https://vercel.com)
-- Shu Ding ([@shuding\_](https://twitter.com/shuding_)) - [Vercel](https://vercel.com)
-- shadcn ([@shadcn](https://twitter.com/shadcn)) - [Vercel](https://vercel.com)
-- Lars Grammel ([@lgrammel](https://twitter.com/lgrammel)) - [Vercel](https://vercel.com)
-- Nico Albanese ([@nicoalbanese10](https://twitter.com/nicoalbanese10)) - [Vercel](https://vercel.com)
